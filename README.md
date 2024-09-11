@@ -23,5 +23,7 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 ## Diagramas y Diseños
 
 [Tarjetas CRC](#)
+
 [Diagramas de Casos de Uso](#)
+
 [Escenarios de Casos de Uso](#)
