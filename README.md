@@ -21,3 +21,7 @@ Este proyecto presenta el **Sistema de Gestión para el Gimnasio "Fitness Pro"**
 Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, ofreciendo una experiencia fluida a los socios y garantizando un manejo adecuado de los recursos y pagos.
 
 ## Diagramas y Diseños
+
+[Tarjetas CRC](#)
+[Diagramas de Casos de Uso](#)
+[Escenarios de Casos de Uso](#)
