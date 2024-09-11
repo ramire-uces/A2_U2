@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Fitness Pro: Sistema de Gestión
 
 **Ramiro Nicolás Renterías**
 
