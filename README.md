@@ -30,6 +30,6 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 
 [Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1cDUHP38Veetx6VWCIQsh8156ih2UR8Mr/view?usp=sharing)
 
-[Anexo - Aplicación de Principios SOLID]()
+[Anexo - Aplicación de Principios SOLID](https://drive.google.com/file/d/1EAK4FN9NH_M5wjnRqK-J9cI85AntpX96/view?usp=sharing)
 
 [Esbozo Re-entrega A1U1](https://drive.google.com/file/d/1MEJ6YkTC0dMwgqBiA3qoWMg45VD-7LPq/view?usp=sharing)
