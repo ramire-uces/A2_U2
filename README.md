@@ -24,7 +24,7 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 
 [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1qseXx2NS4fiqnqy2mEZaPTBF9Hv3myKG/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
 
-[Diagramas de Casos de Uso](https://drive.google.com/file/d/1UHZfEeH4xCbK2ykE8ar48paoqaURujbP/view?usp=sharing) - [Captura de Pantalla](https://drive.google.com/file/d/1glPu2SN0P1o7it0tPphSRs8X8NqNcf2e/view?usp=sharing)
+[Diagramas de Casos de Uso](https://drive.google.com/file/d/1glPu2SN0P1o7it0tPphSRs8X8NqNcf2e/view?usp=sharing)
 
 [Escenarios de Casos de Uso](https://docs.google.com/spreadsheets/d/1FPurNsSBPeVZakk3x9H0IFhMUqSHvSWI/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
 
