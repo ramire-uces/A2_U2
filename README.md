@@ -28,7 +28,7 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 
 [Escenarios de Casos de Uso](https://docs.google.com/spreadsheets/d/1FPurNsSBPeVZakk3x9H0IFhMUqSHvSWI/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
 
-[Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1VGiUEOdt6mU6ACbAPZ2bUZbmiKs7ypQf/view?usp=sharing)
+[Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1cDUHP38Veetx6VWCIQsh8156ih2UR8Mr/view?usp=sharing)
 
 [Anexo - Aplicación de Principios SOLID]()
 
