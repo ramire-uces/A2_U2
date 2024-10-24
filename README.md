@@ -36,5 +36,10 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 
 [Diagrama de actividades](https://drive.google.com/file/d/1XF8cEFnf-hpib0rCNo-hXwxBdS06hqfn/view?usp=sharing)
 
-## Diagramas de secuencia:
+Diagramas de secuencia:
+- Caso de uso 1
+- Caso de uso 2
+- Caso de uso 3
+- Caso de uso 4
+- Caso de uso 5
   
