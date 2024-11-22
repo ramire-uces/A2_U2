@@ -27,7 +27,7 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
   - [Escenarios de Casos de Uso](https://docs.google.com/spreadsheets/d/1FPurNsSBPeVZakk3x9H0IFhMUqSHvSWI/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
   - Diagramas de Clases
     - [Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1cDUHP38Veetx6VWCIQsh8156ih2UR8Mr/view?usp=sharing)
-    - Diagrama de Clases v2
+    - [Diagrama de Clases v2](https://drive.google.com/file/d/19CI0s44qy5Ja1hfVsjmi5P3d-gYIIHzh/view?usp=sharing)
   - [Diagrama de actividades](https://drive.google.com/file/d/1XF8cEFnf-hpib0rCNo-hXwxBdS06hqfn/view?usp=sharing)
   - Diagramas de Secuencia
     - [Caso de uso 1](https://drive.google.com/file/d/1F7b8gQ52AkU21KnaVASZ_YlpivNXYoFE/view?usp=sharing)
@@ -36,7 +36,7 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
     - [Caso de uso 4](https://drive.google.com/file/d/1df1rCrimeEhGhmN5iSaOC1LNgSvrqOZD/view?usp=sharing)
     - [Caso de uso 5](https://drive.google.com/file/d/1zw2hjryVQIPzmAju3ar7J4JzmvKGTgp2/view?usp=sharing)
   - Herramientas Agile
-    - Matriz CLAE
+    - [Matriz CLAE](https://docs.google.com/spreadsheets/d/1L4xd8Jr2xFDNYf7EmOZMs0QoMsd1lawm/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
     - [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1qseXx2NS4fiqnqy2mEZaPTBF9Hv3myKG/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
   - Anexos:
     - [Anexo - Aplicación de Principios SOLID](https://drive.google.com/file/d/1EAK4FN9NH_M5wjnRqK-J9cI85AntpX96/view?usp=sharing)
