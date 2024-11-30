@@ -1,1 +1,2 @@
-
+- [Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1cDUHP38Veetx6VWCIQsh8156ih2UR8Mr/view?usp=sharing)
+- [Diagrama de Clases v2](https://drive.google.com/file/d/19CI0s44qy5Ja1hfVsjmi5P3d-gYIIHzh/view?usp=sharing)
