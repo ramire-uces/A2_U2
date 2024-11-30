@@ -10,6 +10,9 @@ El patrón Strategy resuelve este problema al permitir que el comportamiento de 
 
 # Ejemplo de Código
 
+
+
+```java
 class MembresiaStrategy:
     method calcularCosto()  
     method otorgarBeneficios()
@@ -34,3 +37,4 @@ class Socio:
         costo = membresía.calcularCosto()
         membresía.otorgarBeneficios()
         return costo
+```
