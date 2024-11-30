@@ -22,6 +22,10 @@ Mi proyecto está diseñado para mejorar la eficiencia operativa del gimnasio, o
 
 ## Diagramas y Diseños
 
+[Diagramas UML](diagramas.md)
+[Herramientas Agile](HerramientasAgile.md)
+[Anexos](Anexos.md)
+
 - Diagramas UML:
   - [Diagramas de Casos de Uso](https://drive.google.com/file/d/1glPu2SN0P1o7it0tPphSRs8X8NqNcf2e/view?usp=sharing)
   - [Escenarios de Casos de Uso](https://docs.google.com/spreadsheets/d/1FPurNsSBPeVZakk3x9H0IFhMUqSHvSWI/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
