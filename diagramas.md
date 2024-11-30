@@ -2,12 +2,7 @@
 - [Escenarios de Casos de Uso](https://docs.google.com/spreadsheets/d/1FPurNsSBPeVZakk3x9H0IFhMUqSHvSWI/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
 - [Diagramas de Clases](DiagramasClases.md)
 - [Diagrama de actividades](https://drive.google.com/file/d/1XF8cEFnf-hpib0rCNo-hXwxBdS06hqfn/view?usp=sharing)
-- Diagramas de Secuencia:
-    - [Caso de uso 1](https://drive.google.com/file/d/1F7b8gQ52AkU21KnaVASZ_YlpivNXYoFE/view?usp=sharing)
-    - [Caso de uso 2](https://drive.google.com/file/d/1VBS54bYBKf_2dn5-oKZ983E7Tv2Cvaju/view?usp=sharing)
-    - [Caso de uso 3](https://drive.google.com/file/d/1OSvcL0MFQL6BOxuNkxkhbs4YMlXYSmAh/view?usp=sharing)
-    - [Caso de uso 4](https://drive.google.com/file/d/1df1rCrimeEhGhmN5iSaOC1LNgSvrqOZD/view?usp=sharing)
-    - [Caso de uso 5](https://drive.google.com/file/d/1zw2hjryVQIPzmAju3ar7J4JzmvKGTgp2/view?usp=sharing)
+- [Diagramas de Secuencia](DiagramasSecuencia.md)
   - Herramientas Agile:
     - [Matriz CLAE](https://docs.google.com/spreadsheets/d/1L4xd8Jr2xFDNYf7EmOZMs0QoMsd1lawm/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
     - [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1qseXx2NS4fiqnqy2mEZaPTBF9Hv3myKG/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
