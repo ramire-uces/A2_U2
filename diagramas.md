@@ -3,9 +3,7 @@
 - [Diagramas de Clases](DiagramasClases.md)
 - [Diagrama de actividades](https://drive.google.com/file/d/1XF8cEFnf-hpib0rCNo-hXwxBdS06hqfn/view?usp=sharing)
 - [Diagramas de Secuencia](DiagramasSecuencia.md)
-  - Herramientas Agile:
-    - [Matriz CLAE](https://docs.google.com/spreadsheets/d/1L4xd8Jr2xFDNYf7EmOZMs0QoMsd1lawm/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
-    - [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1qseXx2NS4fiqnqy2mEZaPTBF9Hv3myKG/edit?usp=sharing&ouid=101120142767344064015&rtpof=true&sd=true)
+
   - Anexos:
     - [Anexo - Aplicación de Principios SOLID](https://drive.google.com/file/d/1EAK4FN9NH_M5wjnRqK-J9cI85AntpX96/view?usp=sharing)
     - [Esbozo Re-entrega A1U1](https://drive.google.com/file/d/1MEJ6YkTC0dMwgqBiA3qoWMg45VD-7LPq/view?usp=sharing)
