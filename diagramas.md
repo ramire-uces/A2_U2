@@ -4,6 +4,6 @@
 
 [Diagramas de Clases](DiagramasClases.md)
 
-[Diagrama de actividades](https://drive.google.com/file/d/1XF8cEFnf-hpib0rCNo-hXwxBdS06hqfn/view?usp=sharing)
+[Diagrama de actividades](https://drive.google.com/file/d/17HQUyUODXeBRMyU8JLEwJzo28Ek5mcE0/view?usp=sharing)
 
 [Diagramas de Secuencia](DiagramasSecuencia.md)
