@@ -10,20 +10,20 @@ class Membresia {
     protected String socioId;
     protected LocalDate fechaDeVencimiento;
 
-    public Membresia(String socioId, LocalDate fechaDeVencimiento) {
+    public Membresia(String socioId, Date fechaDeVencimiento) {
         this.socioId = socioId;
         this.fechaDeVencimiento = fechaDeVencimiento;
     }
 
     public boolean comprobarMembresia() {
-        return fechaDeVencimiento.isAfter(LocalDate.now());
+        return fechaDeVencimiento.after(fecha);
     }
 }
 
 class MembresiaVIP extends Membresia {
     private String beneficiosVIP;
 
-    public MembresiaVIP(String socioId, LocalDate fechaDeVencimiento, String beneficiosVIP) {
+    public MembresiaVIP(String socioId, Date fechaDeVencimiento, String beneficiosVIP) {
         super(socioId, fechaDeVencimiento);
         this.beneficiosVIP = beneficiosVIP;
     }
