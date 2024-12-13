@@ -30,11 +30,11 @@ class MembresiaVIP inherits MembresiaStrategy:
     method otorgarBeneficios()    
 
 class Socio:
-    attribute membresía: MembresiaStrategy 
+    attribute membresia: MembresiaStrategy 
     method asignarMembresia(estrategia: MembresiaStrategy)
-        this.membresía = estrategia
+        this.membresia = estrategia
     method procesarMembresia()
-        costo = membresía.calcularCosto()
-        membresía.otorgarBeneficios()
+        costo = membresia.calcularCosto()
+        membresia.otorgarBeneficios()
         return costo
 ```
