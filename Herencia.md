@@ -7,26 +7,36 @@
 
 ```java
 public class Usuario {
-    private String nombre;
+    protected String userId;
+    protected String contraseña;
+    protected Date fechaRegistro;
 
-    public Usuario(String nombre) {
-        this.nombre = nombre;
+    public Usuario(String userId, String contraseña, Date fechaRegistro) {
+        this.userId = userId;
+        this.contraseña = contraseña;
+        this.fechaRegistro = fechaRegistro;
     }
 
-    public String getNombre() {
-        return nombre;
+    public boolean confirmarInicioDeSesion(String inputPassword) {
+        return this.contraseña.equals(inputPassword);
     }
 }
 
 public class Socio extends Usuario {
-    public Socio(String nombre) {
-        super(nombre);
+    private String membresia;
+
+    public Socio(String userId, String contraseña, Date fechaRegistro, String membresia) {
+        super(userId, contraseña, fechaRegistro);
+        this.membresia = membresia;
     }
-}
+
 
 public class Entrenador extends Usuario {
-    public Entrenador(String nombre) {
-        super(nombre);
+    private boolean disponibilidad;
+
+    public Entrenador(String userId, String contraseña, Date fechaRegistro, boolean disponibilidad) {
+        super(userId, contraseña, fechaRegistro);
+        this.disponibilidad = disponibilidad;
     }
 }
 ```
