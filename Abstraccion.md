@@ -1,4 +1,5 @@
 ## Abstracción
+Consiste en simplificar la complejidad del mundo real modelando solo los aspectos esenciales relevantes para el sistema. Los objetos abstractos representan entidades del dominio de aplicación y sus interacciones, lo que facilita la comprensión y el diseño del software.
 
 ## Ejemplo en el proyecto
 ![image](https://github.com/user-attachments/assets/8cc8ecfb-7dd3-46d3-838c-86a484485ca8)
