@@ -3,6 +3,7 @@ Se refiere a la capacidad de los objetos de una misma jerarquía de clases para 
 
 ## Ejemplo en el proyecto
 ![image](https://github.com/user-attachments/assets/e7485880-0b27-4158-8fe0-dc4aa4e6feb4)
+Gracias al polimorfismo, el programa puede tratar objetos de Membresía y Membresía VIP de manera uniforme a través de un mismo método. Esto significa que, al invocar este método, un objeto de Membresía VIP puede ejecutar un comportamiento diferente al de un objeto de Membresía, adaptándose a sus características específicas.
 
 ## Ejemplo de Código
 
