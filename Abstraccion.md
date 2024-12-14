@@ -6,6 +6,8 @@ Consiste en simplificar la complejidad del mundo real modelando solo los aspecto
 
 ## Ejemplo de Código
 
+Gracias a la abstracción, la clase Equipo encapsula información esencial sobre los equipos del gimnasio. Si requiere mantenimiento, le deja los detalles específicos del mantenimiento a la clase Mantenimiento. Esto permite modelar los aspectos relevantes del equipo y su mantenimiento sin complicar el diseño, facilitando la extensión o modificación del sistema en el futuro.
+
 ```java
 public class Equipo {
     private String tipoDeEquipo;
