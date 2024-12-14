@@ -4,6 +4,8 @@ Es un mecanismo que permite que un objeto herede propiedades y comportamientos d
 ## Ejemplo en el proyecto
 ![image](https://github.com/user-attachments/assets/56abbe4f-217d-47a3-99a7-a7cc59ad0920)
 
+En este proyecto, Usuario funciona como clase general, encapsulando propiedades compartidas. Las subclases Entrenador y Socio extienden esta funcionalidad al agregar comportamientos específicos, permitiendo adaptar el sistema a las necesidades particulares de cada tipo de usuario.
+
 ## Ejemplo de Código
 
 ```java
